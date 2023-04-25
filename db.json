@@ -1,0 +1,85 @@
+{
+  "Products":[
+    {
+      "id": "1",
+      "sku": 1,
+      "ean": 11111111111,
+      "title": "Apple",
+      "description": "An Apple a day...",
+      "imageURL": "",
+      "price": 60,
+      "vat": 25,
+      "stock_availability": "high" 
+    }, {
+      "id": "2",
+      "sku": 2,
+      "ean": 11111111112,
+      "title": "Avocado",
+      "description": "Green and Ripe.",
+      "imageURL": "",
+      "price": 85,
+      "vat": 25,
+      "stock_availability": "high" 
+    }, {
+      "id": "3",
+      "sku": 3,
+      "ean": 11111111113,
+      "title": "Orange",
+      "description": "Oranges are oranges.",
+      "imageURL": "",
+      "price": 65,
+      "vat": 25,
+      "stock_availability": "high" 
+    }, {
+      "id": "4",
+      "sku": 4,
+      "ean": 11111111114,
+      "title": "Banana",
+      "description": "By the dozen.",
+      "imageURL": "",
+      "price": 50,
+      "vat": 25,
+      "stock_availability": "high" 
+    }, {
+      "id": "5",
+      "sku": 5,
+      "ean": 11111111115,
+      "title": "Diet Coke",
+      "description": "Zero Calories",
+      "imageURL": "",
+      "price": 75,
+      "vat": 25,
+      "stock_availability": "high" 
+    }, {
+      "id": "6",
+      "sku": 6,
+      "ean": 11111111116,
+      "title": "Peaches",
+      "description": "Peaches",
+      "imageURL": "",
+      "price": 35,
+      "vat": 25,
+      "stock_availability": "high" 
+    }, {
+      "id": "7",
+      "sku": 7,
+      "ean": 11111111117,
+      "title": "Blueberry",
+      "description": "Born in the wild.",
+      "imageURL": "",
+      "price": 150,
+      "vat": 25,
+      "stock_availability": "high" 
+    }, {
+      "id": "8",
+      "sku": 8,
+      "ean": 11111111118,
+      "title": "Pears",
+      "description": "Juicy",
+      "imageURL": "",
+      "price": 80,
+      "vat": 25,
+      "stock_availability": "high" 
+    }
+  ]
+}

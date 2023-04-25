@@ -1,85 +1,103 @@
 {
-  "Products":[
+  "products": [
     {
-      "id": "1",
-      "sku": 1,
-      "ean": 11111111111,
-      "title": "Apple",
-      "description": "An Apple a day...",
-      "imageURL": "",
-      "price": 60,
-      "vat": 25,
-      "stock_availability": "high" 
-    }, {
-      "id": "2",
-      "sku": 2,
-      "ean": 11111111112,
-      "title": "Avocado",
-      "description": "Green and Ripe.",
-      "imageURL": "",
-      "price": 85,
-      "vat": 25,
-      "stock_availability": "high" 
-    }, {
-      "id": "3",
-      "sku": 3,
-      "ean": 11111111113,
-      "title": "Orange",
-      "description": "Oranges are oranges.",
-      "imageURL": "",
-      "price": 65,
-      "vat": 25,
-      "stock_availability": "high" 
-    }, {
-      "id": "4",
-      "sku": 4,
-      "ean": 11111111114,
-      "title": "Banana",
-      "description": "By the dozen.",
-      "imageURL": "",
-      "price": 50,
-      "vat": 25,
-      "stock_availability": "high" 
-    }, {
-      "id": "5",
-      "sku": 5,
-      "ean": 11111111115,
-      "title": "Diet Coke",
-      "description": "Zero Calories",
-      "imageURL": "",
-      "price": 75,
-      "vat": 25,
-      "stock_availability": "high" 
-    }, {
-      "id": "6",
-      "sku": 6,
-      "ean": 11111111116,
-      "title": "Peaches",
-      "description": "Peaches",
-      "imageURL": "",
-      "price": 35,
-      "vat": 25,
-      "stock_availability": "high" 
-    }, {
-      "id": "7",
-      "sku": 7,
-      "ean": 11111111117,
-      "title": "Blueberry",
-      "description": "Born in the wild.",
-      "imageURL": "",
+      "id": 1,
+      "name": "Apple",
+      "description": "A juicy and delicious fruit",
       "price": 150,
-      "vat": 25,
-      "stock_availability": "high" 
-    }, {
-      "id": "8",
-      "sku": 8,
-      "ean": 11111111118,
-      "title": "Pears",
-      "description": "Juicy",
-      "imageURL": "",
+      "category": "Fruits",
+      "image_url": "https://example.com/apple.jpg",
+      "sku": "FRU001",
+      "ean": "1234567890123"
+    },
+    {
+      "id": 2,
+      "name": "Orange",
+      "description": "A citrusy and refreshing fruit",
+      "price": 120,
+      "category": "Fruits",
+      "image_url": "https://example.com/orange.jpg",
+      "sku": "FRU002",
+      "ean": "1234567890124"
+    },
+    {
+      "id": 3,
+      "name": "Grapefruit",
+      "description": "A tangy and slightly bitter fruit",
+      "price": 200,
+      "category": "Fruits",
+      "image_url": "https://example.com/grapefruit.jpg",
+      "sku": "FRU003",
+      "ean": "1234567890125"
+    },
+    {
+      "id": 4,
+      "name": "Lemonade",
+      "description": "A refreshing and tart drink",
+      "price": 100,
+      "category": "Drinks",
+      "image_url": "https://example.com/lemonade.jpg",
+      "sku": "DRK001",
+      "ean": "1234567890126"
+    },
+    {
+      "id": 5,
+      "name": "Iced Tea",
+      "description": "A cool and refreshing tea-based drink",
+      "price": 120,
+      "category": "Drinks",
+      "image_url": "https://example.com/icedtea.jpg",
+      "sku": "DRK002",
+      "ean": "1234567890127"
+    },
+    {
+      "id": 6,
+      "name": "Coffee",
+      "description": "A rich and aromatic hot drink",
+      "price": 180,
+      "category": "Drinks",
+      "image_url": "https://example.com/coffee.jpg",
+      "sku": "DRK003",
+      "ean": "1234567890128"
+    },
+    {
+      "id": 7,
+      "name": "Banana",
+      "description": "A sweet and nutritious fruit",
       "price": 80,
-      "vat": 25,
-      "stock_availability": "high" 
+      "category": "Fruits",
+      "image_url": "https://example.com/banana.jpg",
+      "sku": "FRU004",
+      "ean": "1234567890129"
+    },
+    {
+      "id": 8,
+      "name": "Watermelon",
+      "description": "A refreshing and hydrating fruit",
+      "price": 300,
+      "category": "Fruits",
+      "image_url": "https://example.com/watermelon.jpg",
+      "sku": "FRU005",
+      "ean": "1234567890130"
+    },
+    {
+      "id": 9,
+      "name": "Pineapple",
+      "description": "A tropical and sweet fruit",
+      "price": 250,
+      "category": "Fruits",
+      "image_url": "https://example.com/pineapple.jpg",
+      "sku": "FRU006",
+      "ean": "1234567890131"
+    },
+    {
+      "id": 10,
+      "name": "Milk",
+      "description": "Organic and Pure",
+      "price": 250,
+      "category": "Drinks",
+      "image_url": "https://example.com/milk.jpg",
+      "sku": "DRK004",
+      "ean": "1234567890131"
     }
-  ]
 }
